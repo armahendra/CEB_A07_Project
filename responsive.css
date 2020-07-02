@@ -1,10 +1,36 @@
 /* For Tablets */
+
 @media all and (max-width: 1000px) {
- 
-  }
-  
-  /* For Smartphones */
+    /* OUR TEAM */
+    .member {
+        width: 50%;
+        margin-bottom: 50px;
+    }
+    .foto-member {
+        width: 50%;
+        padding: 50% 0 0;
+    }
+    .heading h2 {
+        font-size: 24px;
+    }
+    /* OUR TEAM */
+}
+
+
+/* For Smartphones */
+
 @media all and (max-width: 670px) {
-   
-   
-  }
+    /* OUR TEAM */
+    .member {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    .foto-member {
+        width: 50%;
+        padding: 50% 0 0;
+    }
+    .heading h2 {
+        font-size: 18px;
+    }
+    /* OUR TEAM */
+}
