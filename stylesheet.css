@@ -83,6 +83,33 @@
     margin-right: 5px;
   }
   
+footer{
+  background-color: black;
+  color: white;
+  height: 200px;
+  padding-top: 15px;
+  
+}
+
+.footer-left{
+  float: left;
+  margin: 15px
+}
+
+.footer-right{
+  float: right;
+}
+
+.block{
+  float: left;
+  margin-right: 30px;
+}
+
+.block a{
+  display: block;
+  margin-top: 15px;
+  color: white;
+}
 
 
   
