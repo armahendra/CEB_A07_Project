@@ -6,5 +6,13 @@
   /* For Smartphones */
 @media all and (max-width: 670px) {
    
+   .footer-left{
+     flex-wrap: wrap;
+
+   }
+   .block{
+     flex-direction: column;
+   }
+
    
   }
